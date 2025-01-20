@@ -25,7 +25,7 @@ export const HERO_CONTENT = {
   description:
     "Seeking a challenging role in a dynamic environment where I can contribute my expertise and make a meaningful impact.",
   resumeLinkText: "Download Resume",
-  resumeLink: "/resume.pdf",
+  resumeLink: "https://drive.google.com/file/d/1eOuY5_IU6JOgsFawz8JDIRV6hpVWryyN/view?usp=sharing",
 };
 
 export const PROJECTS = [
